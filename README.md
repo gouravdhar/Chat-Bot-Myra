@@ -3,6 +3,7 @@
 "Myra" is the name of our Chat Bot
 
 train.py --> contains the code for training the model
+
 myra.py --> contains the code for predicting the answers
 
 Myra uses Naive Bayes classifier to predict answers using NLP .
